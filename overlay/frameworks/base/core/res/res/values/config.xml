@@ -305,7 +305,6 @@ Add a comment to this line
 
     <!-- Smart Charging -->
     <bool name="config_SmartChargingAvailable">true</bool>
-    <string name="config_SmartChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/charge_now</string>
 
     <!-- Hardware keys present on the device with the ability to wake, stored as a bit field.
          This integer should equal the sum of the corresponding value for each
