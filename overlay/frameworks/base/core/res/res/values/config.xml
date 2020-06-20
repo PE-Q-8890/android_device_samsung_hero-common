@@ -333,5 +333,8 @@ Add a comment to this line
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
     <integer name="config_deviceHardwareKeys">83</integer>
+    
+    <!-- Disable Navbar by default -->
+    <bool name="config_defaultToNavigationBar">false</bool>
 
 </resources>
